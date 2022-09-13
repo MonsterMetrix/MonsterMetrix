@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @MonsterMetrix
+- 👀 I’m interested in data science and machine learning.
+- 🌱 I’m currently learning python and C#
+- 💞️ I’m looking to collaborate on free projects to get more experience
+- 📫 How to reach me: olga.orlowska@monstermetrix.com
